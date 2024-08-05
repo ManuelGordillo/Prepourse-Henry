@@ -1,2 +1,1 @@
-# Prepourse-Henry
-es un repositorio de prueba
+Este proyecta es como crear y clonar un repositorio
